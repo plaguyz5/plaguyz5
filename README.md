@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">404 PAGE NOT FOUND</h1>
 
 ###
 
